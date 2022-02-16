@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource contains information related to syllabus for fall 2005.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/64bb846140896fa950d5176bd1c4d436_MIT21H_104JF10_syllf05.pdf
+file: /media/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/64bb846140896fa950d5176bd1c4d436_MIT21H_104JF10_syllf05.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Document
 title: MIT21H_104JF10_syllf05.pdf
 uid: 64bb8461-4089-6fa9-50d5-176bd1c4d436
