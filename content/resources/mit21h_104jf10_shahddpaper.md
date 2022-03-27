@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 13d66d14-b3cb-f4e1-c303-30023bf12cc3
 resourcetype: Document
 title: MIT21H_104JF10_shahddpaper.pdf
 uid: db981a02-41df-91e5-75ce-68ad7da42bca
