@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides general information about assignments, instructions
+  for each writing assignment of the course, and a sample student final paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 13d66d14-b3cb-f4e1-c303-30023bf12cc3
 ---
@@ -43,4 +48,4 @@ The final paper will be a research paper on a riot, strike, or conspiracy not di
 
 One of the final papers from a previous version of tthe class is presented here. All work is courtesy of the student named and used with permission.
 
-The Continued Violence of the New York City Draft Riots of 1863 - Arian Shahdadi ([PDF]({{< baseurl >}}/resources/mit21h_104jf10_shahddpaper))
+The Continued Violence of the New York City Draft Riots of 1863 - Arian Shahdadi ({{% resource_link db981a02-41df-91e5-75ce-68ad7da42bca "PDF" %}})
