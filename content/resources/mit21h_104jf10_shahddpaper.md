@@ -6,6 +6,7 @@ file: /courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT21H_104JF10_shahddpaper.pdf
 uid: db981a02-41df-91e5-75ce-68ad7da42bca
 ---
 This resource contains information related to the continued violence of the New York city draft riots of 1863. 
-
