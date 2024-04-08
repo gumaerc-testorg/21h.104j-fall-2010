@@ -54,7 +54,7 @@ Students will be required to write three papers, of which the final one will be 
 
 Special classes will be devoted to choosing an appropriate paper topic, conducting research, and preparing final papers. Students will be asked to turn in a brief statement of topics on which they might write their papers on or before the class in Ses #6, and those proposed topics will be discussed in class on Ses #7.
 
-Since this is a [Communication Intensive Subject](http://web.mit.edu/commreq/), students will normally be asked to rewrite at least one of the first two papers.
+Since this is a {{% resource_link "fb787940-a086-4189-be3e-bc729a662f90" "Communication Intensive Subject" %}}, students will normally be asked to rewrite at least one of the first two papers.
 
 Grading
 -------
