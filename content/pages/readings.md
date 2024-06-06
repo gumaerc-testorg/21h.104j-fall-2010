@@ -33,9 +33,9 @@ No readings
 The Attica Prison Uprising, 1971
 {{< tdclose >}}{{< tdopen >}}
 
-Cinda Firestone's documentary, {{% resource_link "94607896-865b-4871-8fb8-08ab2af077f7" "Attica" %}}, shown in class.
+Cinda Firestone's documentary, [Attica](http://www.imdb.com/title/tt0270211/), shown in class.
 
-Do {{% resource_link "f01a034c-e632-4e11-b2ec-4bd6413a4570" "background reading" %}} on the Attica Prison Uprising.
+Do [background reading](http://www.talkinghistory.org/attica/) on the Attica Prison Uprising.
 
 Start the readings on the Boston Tea Party.
 
@@ -51,9 +51,9 @@ No readings
 The Boston Tea Party, 1773
 {{< tdclose >}}{{< tdopen >}}
 
-Maier, Pauline. "{{% resource_link "9a8f0fdf-59e3-4176-b06c-d83cadc36ae8" "Popular Uprisings and Civil Authority in Eighteenth-Century America" %}}." In *William and Mary Quarterly*, 3rd Series, XXVII (1970): 3-35.
+Maier, Pauline. "[Popular Uprisings and Civil Authority in Eighteenth-Century America](http://www.jstor.org/pss/1923837)." In *William and Mary Quarterly*, 3rd Series, XXVII (1970): 3-35.
 
-Upton, L. F. S. "{{% resource_link "e1ccca7c-4df0-4543-9cdd-8b010ed919df" "Proceedings of Ye Body Respecting the Tea" %}}." *Ibid*, XXII (1965): 87-300.
+Upton, L. F. S. "[Proceedings of Ye Body Respecting the Tea](http://www.jstor.org/pss/1920700)." *Ibid*, XXII (1965): 87-300.
 
 Frothingham, Richard. Presentation to a special "Tea Party Anniversary" meeting of the Massachusetts Historical Society on December 16, 1873. In *Proceedings of the Massachusetts Historical Society*, XIII, 1873-1875. Boston, MA, 1875, 156-83.
 
@@ -67,7 +67,7 @@ Adams, John. Diary entry for December 17, 1773, and selections from number VI of
 The Rendition of Anthony Burns, 1854
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "2055fbbc-11c5-4dc4-be5a-d3d0763e2929" "The Fugitive Slave Act of 1850" %}}
+[The Fugitive Slave Act of 1850](http://avalon.law.yale.edu/19th_century/fugitive.asp)
 
 H., Jane, and William H. Pease. *The Fugitive Slave Law and Anthony Burns: A Problem in Law Enforcement*. Philadelphia, PA; New York, NY; and Toronto, Canada: Lippincott, 1975, pp. 5-8, 3-54, and 71-98. ISBN: 9780397473298.
 
@@ -119,7 +119,7 @@ Debs, Eugene V. "The Federal Government and the Chicago Strike." (1904; a reply 
 
 Altgeld, John Peter. *Live Questions by John P. Altgeld Comprising His Papers, Speeches and Interviews.* Chicago: Bowen, 1899, pp. 459-461 (comments on "In Re Debs." November 15, 1894), and pp. 650-670 (comments on the federal government's interference in the strike, October 17, 1876).
 
-"{{% resource_link "1eb9996d-31f5-40ea-a51d-c9ec9343ba49" "The Lesson of the Recent Strikes" %}}" from four perspectives, *North American Review*, August 1894, pp. 180-188.
+"[The Lesson of the Recent Strikes](http://digital.library.cornell.edu/cgi/t/text/pageviewer-idx?c=nora;cc=nora;rgn=full%20text;idno=nora0159-2;didno=nora0159-2;view=image;seq=0186;node=nora0159-2%3A6)" from four perspectives, *North American Review*, August 1894, pp. 180-188.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21-24
