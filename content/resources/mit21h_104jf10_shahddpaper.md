@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains information related to the continued violence
   of the New York city draft riots of 1863. '
 file: /courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/db981a0241df91e575ce68ad7da42bca_MIT21H_104JF10_shahddpaper.pdf
+file_size: 188582
 file_type: application/pdf
 learning_resource_types:
 - Assignments
