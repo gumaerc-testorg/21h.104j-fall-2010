@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to syllabus for fall 2006.
-file: /ol-ocw-studio-app/courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/b4b6bfb0bd0d05f0fcf9fdfa4ab7b5fc_MIT21H_104JF10_syllf06.pdf
+file: /courses/21h-104j-riots-strikes-and-conspiracies-in-american-history-fall-2010/b4b6bfb0bd0d05f0fcf9fdfa4ab7b5fc_MIT21H_104JF10_syllf06.pdf
 file_size: 51080
 file_type: application/pdf
 learning_resource_types: []
